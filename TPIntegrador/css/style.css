@@ -1,0 +1,210 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#header 
+{
+    height: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+
+
+/* div
+{
+    background-color: rgb(182, 182, 182);
+    border: solid black;
+} */
+
+.logo
+{
+    position: relative;
+    bottom: 20px;
+}
+
+.navbar-right
+{
+    position: relative;
+    display: flex;
+    margin-left: auto;
+}
+
+.boton
+{
+    color: green;
+    background-color: transparent;
+    border: transparent;
+    position: relative;
+    top: 10px;
+}
+
+.conoce
+{
+    color: gray;
+    top: 20px;
+    position: relative; 
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.container-fluid
+{
+    display: flex;
+    
+}
+
+.NyA
+{
+    border: solid gray 1px;
+    border-radius: 5px;
+    width: 500px;
+    padding: 5px 20px;
+}
+
+.text
+{
+    border: solid gray 1px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    width: 1030px;
+    height: 200px;
+    padding: 5px 20px;
+    font-size: 30px;
+}
+
+.recor
+{
+    color: gray;
+}
+
+.boton2
+{
+    width: 100%;
+}
+
+.subrayado
+{
+    text-decoration-style: dotted;
+}
+
+.flex-container
+{
+    
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.felx-item
+{
+    position: relative;
+    margin: auto;
+    right: 30px;
+    margin-top: 50px;
+}
+
+.felx-item2
+{
+    position: relative;
+    margin: auto;
+    right: 30px;
+    margin-top: 30px;
+}
+
+footer
+{
+    padding-left: 150px;
+    padding-right: 150px;
+    height: 125px;
+    background: linear-gradient(to right, rgb(16, 20, 31), rgb(7, 62, 112))
+    
+}
+
+.fotLink
+{
+    text-decoration: none;
+    color: white;
+}
+
+.imagen
+{
+    position: relative;
+    left: 25%;
+}
+
+.etik
+{
+    display: flex;
+    position: relative;
+    top: 15px;
+}
+
+.java
+{
+    position: relative;
+    font-size: 15px;
+    margin-right: 5px;
+}
+
+.javatxt
+{
+    background-color: rgb(255, 196, 0);
+    text-align: center;
+    border-radius: 5px;
+    width: 85px;
+    height: 23px;
+}
+
+.react
+{
+    font-size: 15px;
+    color: white;
+}
+
+.reacttxt
+{
+    background-color: rgb(68, 152, 221);
+    text-align: center;
+    border-radius: 5px;
+    width: 50px;
+    height: 23px;
+}
+
+.negocios
+{
+    position: relative;
+    font-size: 15px;
+    margin-right: 5px;
+    color: white;
+}
+
+.negociostxt
+{
+    background-color: gray;
+    text-align: center;
+    border-radius: 5px;
+    width: 75px;
+    height: 23px;
+}
+
+.star
+{
+    font-size: 15px;
+    color: white;
+}
+
+.startxt
+{
+    background-color: rgb(255, 52, 52);
+    text-align: center;
+    border-radius: 5px;
+    width: 70px;
+    height: 23px;
+}
